@@ -6,4 +6,4 @@ A Demo Flutter project.
 
 This project is for demo purposes only and will break in the future,
 this app scrapes data from https://www.worldometers.info/
-if you wish to use this app, subscribe to their api plans.
+if you wish to use this app, consider subscribing to their api plans.
